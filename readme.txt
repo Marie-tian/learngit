@@ -1,2 +1,2 @@
-today is a good day
-study git and python
+Git is a distributed version control system.
+Git is free software
